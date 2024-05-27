@@ -46,7 +46,7 @@ Intagram: [@karlagomeezs](https://www.instagram.com/karlagomeezs/?hl=es-la)
 
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/FotoAlexRangel.jpg" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/FotoAlejandroLopezAlcantara.jpg" style="float:left;width:200px;padding-right:20px;">
 **Alejandro López Alcantara** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Sociologia de la educacion.
 
 X: [@Alejand48044397](https://x.com/Alejand48044397?t=s1aCs38t0bYiBPchDTFdfQ&s=09)
